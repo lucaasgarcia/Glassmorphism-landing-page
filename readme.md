@@ -3,7 +3,7 @@
 Efeito de transparencia usando HTML & CSS
 
 ### Preview
-![preview](/images/Preview.png "Imagem de Preview")
+![preview](/src/Images/preview.png "Imagem de Preview")
 
 
 ### Clone este repositorio
