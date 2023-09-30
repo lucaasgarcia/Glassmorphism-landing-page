@@ -3,13 +3,13 @@
 Efeito de transparencia usando HTML & CSS
 
 ### Preview
-![preview](/public/images/Preview.png "Imagem de Preview")
+![preview](/images/Preview.png "Imagem de Preview")
 
 
 ### Clone este repositorio
 
 ```bash
-git clone https://github.com/lucaasgarcia/glassmorphism.git
+git clone https://github.com/lucaasgarcia/glassmorphism-landing-page.git
 ```
 
 
