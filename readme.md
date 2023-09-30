@@ -1,4 +1,4 @@
-# Glassmorphis
+# Glassmorphism 
 
 Efeito de transparencia usando HTML & CSS
 
